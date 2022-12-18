@@ -1,0 +1,27 @@
+body {
+    background-color: #FFF8E1;
+}
+.container {
+    margin: auto;
+    width: 40%;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #472183;
+}
+h1, h2 {
+    color: #4B56D2;
+}
+h3 {
+    color: #495579;
+}
+ul#urun-cesit {
+    text-align: initial;
+    margin: auto;
+    width: 15%;
+}
+ol#urunler {
+    background-color: #fff;
+    list-style-type: none;
+}
